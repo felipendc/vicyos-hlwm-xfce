@@ -1,7 +1,7 @@
-favorites=arcolinux-welcome-app.desktop,arcolinux-tweak-tool.desktop,firefox.desktop,exo-file-manager.desktop,exo-terminal-emulator.desktop,exo-preferred-applications.desktop,conkyzen.desktop
+favorites=chromium.desktop,exo-file-manager.desktop,exo-terminal-emulator.desktop,exo-preferred-applications.desktop,conkyzen.desktop
 recent=
 button-title=ArcoLinux\ \ \ \ 
-button-icon=start-here-arcolinux
+button-icon=start-here-vicyoslinux
 button-single-row=false
 show-button-title=true
 show-button-icon=true
